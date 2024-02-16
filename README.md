@@ -8,8 +8,10 @@ Python(libraries - pandas,numpy,pickle,flask,sklearn,seaborn,matplotlib)
 
 # Dataset
 Iris Species Classifiction Dataset - Kaggle.com
-#
+
+# Feilds
 -Sepal length<br>
--Sepal width
--Petal length
--Petal width
+-Sepal width<br>
+-Petal length<br>
+-Petal width<br>
+-species
